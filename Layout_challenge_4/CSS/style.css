@@ -1,0 +1,83 @@
+/* Project Name: Layout_Challenge
+Author: Esmeralda Hoscoy
+Front End Developer @GA in NYC */
+
+div {
+	background-color: gray; 
+	clear: left; 
+	float: left; 
+	height: 50px; 
+	margin: 5px 0; 
+	width: 100%;
+}
+
+
+/*Nav Section*/
+
+.block1 {
+  height: 100px; 
+  width: 28%;
+  clear: left;
+}
+
+.block2 {
+  height: 50px; 
+  width: 15%;
+  clear: none;
+  margin-left: 6%;
+  margin-right: 2%;
+  margin-top: 25px;
+}
+
+.block3 {
+  height: 50px; 
+  width: 15%;
+  clear: none;
+  margin-right: 2%;
+  margin-top: 25px;
+}
+
+.block4 {
+  height: 50px; 
+  width: 15%;
+  clear: none;
+  margin-right: 2%;
+  margin-top: 25px;
+}
+
+.block5 {
+  height: 50px; 
+  width: 15%;
+  clear: none;
+  margin-top: 25px;
+}
+
+/*Repeat from previous lesson*/
+
+.block6 { 
+  height: 150px; 
+  width: 100%;
+  clear: none;
+}
+
+.block7 {
+  clear: left;
+  height: 50px;
+  width: 32%; 
+  margin-right: 2%;
+}
+
+.block8 {
+  float: left;
+  clear: none;
+  height: 50px;
+  width: 32%; 
+}
+
+.block9 {
+  float: left;
+  clear: none;
+  height: 50px;
+  width: 32%; 
+  margin-left: 2%;
+}
